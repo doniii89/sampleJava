@@ -34,7 +34,7 @@ public class Controller {
     private final Clipboard clipboard = Clipboard.getSystemClipboard();
     private final ClipboardContent content = new ClipboardContent();
     
-    private final String message = "Zum kopieren der Zahlen, rechte Maustaste klicken\nZum löschen einer Zahl, linke Maustaste klicken-";
+    private final String message = "Zum kopieren der Zahlen, rechte Maustaste klicken\nZum löschen einer Zahl, linke Maustaste klicken";
       
     public void initialize(){
 
