@@ -20,6 +20,10 @@ Button{
                 -fx-max-width: 150px;
                 -fx-max-height: 65px;
 }
+
+#zeroButton:hover{
+	-fx-font-size: 28;
+}
  
  #restartButton{
  				-fx-text-fill: black;
